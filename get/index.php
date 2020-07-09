@@ -13,6 +13,9 @@ $id = explode('-', $id);
 $modelId = (int)$id[0];
 $modelTexturesId = isset($id[1]) ? (int)$id[1] : 0;
 
+$_index  = new GetModelJson();
+$_index->GetJson($modelId,$modelTexturesId);
+
 $modelName = $modelList->id_to_name($modelId);
 
 if (is_array($modelName)) {
@@ -43,3 +46,10 @@ if (isset($json['expressions']))
 
 header("Content-type: application/json");
 echo $jsonCompatible->json_encode($json);
+
+class GetModelJson{
+    public function GetJson($modelId,$modelTexturesId){
+        $modelList = new modelList();
+        $modelName = $modelList->id_to_name($modelId);
+    }
+} 
