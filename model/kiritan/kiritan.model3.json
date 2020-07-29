@@ -1,18 +1,72 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "kiritan.moc3",
-		"Textures": [
-			"kiritan.2048/texture_00.png"
-		],
-		"Physics": "kiritan.physics3.json",
-		"DisplayInfo": "kiritan.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "kiritan.moc3",
+    "Textures": [
+      "kiritan.2048/texture_00.png"
+    ],
+    "Motions": {
+      "TapArtMesh39#1": [
+        {
+          "Name": "触碰",
+          "Expression": "表情组",
+          "Language": "zhs"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "表情组",
+        "File": "kiritan.physics3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "ArtMesh39",
+      "Id": "ArtMesh39",
+      "Order": 1,
+      "Motion": "TapArtMesh39#1:触碰"
+    }
+  ],
+  "Options": {}
 }
