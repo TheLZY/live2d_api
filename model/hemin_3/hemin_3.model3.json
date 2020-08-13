@@ -50,9 +50,6 @@
     }
   },
   "Controllers": {
-    "ParamHit": {},
-    "ParamLoop": {},
-    "KeyTrigger": {},
     "EyeBlink": {
       "MinInterval": 500,
       "MaxInterval": 6000,
@@ -99,17 +96,9 @@
     "Accelerometer": {
       "Enabled": true
     },
-    "Microphone": {},
-    "Transform": {},
-    "FaceTracking": {},
-    "ParamValue": {},
-    "PartOpacity": {},
-    "ArtmeshOpacity": {},
-    "ArtmeshColor": {},
     "ArtmeshCulling": {
       "DefaultMode": 0
-    },
-    "IntimacySystem": {}
+    }
   },
   "HitAreas": [
     {
