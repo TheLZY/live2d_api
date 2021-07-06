@@ -8,6 +8,7 @@ Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端
 - 支持 模型、皮肤 的 顺序切换 和 随机切换
 - 支持 单模型 单皮肤 切换、多组皮肤 递归穷举
 - 支持 同分组 多个模型 或 多个路径 的 加载切换
+- 支持 moc3 模型（感谢@[jiangweifang](https://github.com/jiangweifang) 实现了对moc3模型的支持）
 
 ## 使用
 
