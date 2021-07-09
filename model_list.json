@@ -13,11 +13,11 @@
             "22娘/22-newyear",
             "22娘/22-school",
             "22娘/22-summer-super",
-            "22-tomo-bukatsu-high",
-            "22-tomo-bukatsu-low",
-            "22-vadys",
-            "22-valley",
-            "22-xmas"
+            "22娘/22-tomo-bukatsu-high",
+            "22娘/22-tomo-bukatsu-low",
+            "22娘/22-vadys",
+            "22娘/22-valley",
+            "22娘/22-xmas"
         ],
         [
         
@@ -38,16 +38,18 @@
             "33娘/33-valley",
             "33娘/33-xmas"
         ],
-        "Bronya",
+        "bronya",
         "contender",
         "mai",
-        "mashiro/mashiro_ryoufuku",
-        "mashiro/mashiro_seifuku",
-        "mashiro/mashiro_shifuku",
+        [
+            "mashiro/mashiro_ryoufuku",
+            "mashiro/mashiro_seifuku",
+            "mashiro/mashiro_shifuku"
+        ],
         "mikoto",
         "MochuangBeiling",
         "rem",
-        "river",
+        "index",
         "saten",
         "uiharu",
         "velet",
@@ -76,12 +78,10 @@
         "珂朵莉",
 
         "katou",
-        "kiritan",
+
 
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
-        "bilibili-live/22",
-        "bilibili-live/33",
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"

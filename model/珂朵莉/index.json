@@ -6,7 +6,7 @@
   ],
   "layout": {
     "center_x": 0.0,
-    "center_y": 0.0,
+    "center_y": -0.36,
     "width": 2.0
   },
   "motions": {
@@ -48,4 +48,5 @@
     }
   ],
   "physics": "physics.json"
+
 }

@@ -51,5 +51,10 @@
 			{"file":"mtn/IDLING_03.mtn"}
 		]
 	},
-	"physics":"asuna_15.physics.json"
+	"physics":"asuna_15.physics.json",
+	"layout":{
+        "center_x": 0,
+        "center_y": -0.13,
+        "width": 1.8
+	}
 }
