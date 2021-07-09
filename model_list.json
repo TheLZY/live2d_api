@@ -1,5 +1,83 @@
 {
     "models": [
+        "2017雪初音",
+        [
+            "22娘/22-0default",
+            "22娘/22-bls",
+            "22娘/22-bls-summer",
+            "22娘/22-bls-winer",
+            "22娘/22-cba-normal",
+            "22娘/22-cba-super",
+            "22娘/22-deluxe",
+            "22娘/22-lover",
+            "22娘/22-newyear",
+            "22娘/22-school",
+            "22娘/22-summer-super",
+            "22-tomo-bukatsu-high",
+            "22-tomo-bukatsu-low",
+            "22-vadys",
+            "22-valley",
+            "22-xmas"
+        ],
+        [
+        
+            "33娘/33-0default",
+            "33娘/33-bls",
+            "33娘/33-bls-summer",
+            "33娘/33-bls-winer",
+            "33娘/33-cba-normal",
+            "33娘/33-cba-super",
+            "33娘/33-deluxe",
+            "33娘/33-lover",
+            "33娘/33-newyear",
+            "33娘/33-school",
+            "33娘/33-summer-super",
+            "33娘/33-tomo-bukatsu-high",
+            "33娘/33-tomo-bukatsu-low",
+            "33娘/33-vadys",
+            "33娘/33-valley",
+            "33娘/33-xmas"
+        ],
+        "Bronya",
+        "contender",
+        "mai",
+        "mashiro/mashiro_ryoufuku",
+        "mashiro/mashiro_seifuku",
+        "mashiro/mashiro_shifuku",
+        "mikoto",
+        "MochuangBeiling",
+        "rem",
+        "river",
+        "saten",
+        "uiharu",
+        "velet",
+
+        [
+            "亚斯娜/asuna_01",
+            "亚斯娜/asuna_02",
+            "亚斯娜/asuna_03",
+            "亚斯娜/asuna_04",
+            "亚斯娜/asuna_05",
+            "亚斯娜/asuna_06",
+            "亚斯娜/asuna_07",
+            "亚斯娜/asuna_08",
+            "亚斯娜/asuna_09",
+            "亚斯娜/asuna_12",
+            "亚斯娜/asuna_13",
+            "亚斯娜/asuna_14",
+            "亚斯娜/asuna_15",
+            "亚斯娜/asuna_16",
+            "亚斯娜/asuna_17",
+            "亚斯娜/asuna_18"
+        ],
+
+        "和泉纱雾",
+        "尼禄",
+        "珂朵莉",
+
+        "katou",
+        "kiritan",
+
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
@@ -7,19 +85,16 @@
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
-        ],
-        "katou",
-        "kiritan",
-        "jiaran1.0/1.0"
+        ]
+        
     ],
+
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
-        "我可是个路人喔",
-        "!!!",
-        "超能吃超可爱还超瘦的嘉然 ~"
+        "我可是个路人喔"
     ]
 }
