@@ -1,59 +1,5 @@
 {
     "models": [
-        "2017雪初音",
-        [
-            "22娘/22-0default",
-            "22娘/22-bls",
-            "22娘/22-bls-summer",
-            "22娘/22-bls-winer",
-            "22娘/22-cba-normal",
-            "22娘/22-cba-super",
-            "22娘/22-deluxe",
-            "22娘/22-lover",
-            "22娘/22-newyear",
-            "22娘/22-school",
-            "22娘/22-summer-super",
-            "22娘/22-tomo-bukatsu-high",
-            "22娘/22-tomo-bukatsu-low",
-            "22娘/22-vadys",
-            "22娘/22-valley",
-            "22娘/22-xmas"
-        ],
-        [
-        
-            "33娘/33-0default",
-            "33娘/33-bls",
-            "33娘/33-bls-summer",
-            "33娘/33-bls-winer",
-            "33娘/33-cba-normal",
-            "33娘/33-cba-super",
-            "33娘/33-deluxe",
-            "33娘/33-lover",
-            "33娘/33-newyear",
-            "33娘/33-school",
-            "33娘/33-summer-super",
-            "33娘/33-tomo-bukatsu-high",
-            "33娘/33-tomo-bukatsu-low",
-            "33娘/33-vadys",
-            "33娘/33-valley",
-            "33娘/33-xmas"
-        ],
-        "bronya",
-        "contender",
-        "mai",
-        [
-            "mashiro/mashiro_ryoufuku",
-            "mashiro/mashiro_seifuku",
-            "mashiro/mashiro_shifuku"
-        ],
-        "mikoto",
-        "MochuangBeiling",
-        "rem",
-        "index",
-        "saten",
-        "uiharu",
-        "velet",
-
         [
             "亚斯娜/asuna_01",
             "亚斯娜/asuna_02",
@@ -73,11 +19,75 @@
             "亚斯娜/asuna_18"
         ],
 
+        [
+            "mashiro/mashiro_ryoufuku",
+            "mashiro/mashiro_seifuku",
+            "mashiro/mashiro_shifuku"
+        ],
+        "katou",
+
+        "2017雪初音",
+
+        "mai",
+
+        "rem",
+
+        "bronya",
+
+        "contender",
+        
+        
+        [
+            "22娘/22-0default",
+            "22娘/22-bls",
+            "22娘/22-bls-summer",
+            "22娘/22-bls-winer",
+            "22娘/22-cba-normal",
+            "22娘/22-cba-super",
+            "22娘/22-deluxe",
+            "22娘/22-lover",
+            "22娘/22-newyear",
+            "22娘/22-school",
+            "22娘/22-summer-super",
+            "22娘/22-tomo-bukatsu-high",
+            "22娘/22-tomo-bukatsu-low",
+            "22娘/22-vadys",
+            "22娘/22-valley",
+            "22娘/22-xmas"
+        ],
+        [
+            "33娘/33-0default",
+            "33娘/33-bls",
+            "33娘/33-bls-summer",
+            "33娘/33-bls-winer",
+            "33娘/33-cba-normal",
+            "33娘/33-cba-super",
+            "33娘/33-deluxe",
+            "33娘/33-lover",
+            "33娘/33-newyear",
+            "33娘/33-school",
+            "33娘/33-summer-super",
+            "33娘/33-tomo-bukatsu-high",
+            "33娘/33-tomo-bukatsu-low",
+            "33娘/33-vadys",
+            "33娘/33-valley",
+            "33娘/33-xmas"
+        ],
+        
+        "mikoto",
+        "MochuangBeiling",
+        
+        "index",
+        "saten",
+        "uiharu",
+
+        "velet",
+
         "和泉纱雾",
         "尼禄",
         "珂朵莉",
 
-        "katou",
+ 
 
 
         "Potion-Maker/Pio",
@@ -90,11 +100,31 @@
     ],
 
     "messages": [
+        "至今为止，从今以后，你都是我的英雄",
+        "呐，你想变成什么颜色？",
+        "我只是个路人诶",
+        "想和我唱甩葱歌吗",
+        "有木有wifi 有木有wifi",
+        "真爱，是蓝色的 ~ ",
+        " ",
+        " ",
+        "来自 Bilibili 的 22 哦 ~",
+        "来自 Bilibili 的 33 的说 ~",
+
+        "BiliBili!",
+        " ",
+        "当~~~妈~~~~！！！",
+        "LV6，上升气流！",
+        " ",
+        "你知道紫罗兰的花语吗？ ",
+        "在画了在画了",
+        " ",
+        "我想，我是幸福的",
+
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
-        "来自 Bilibili Live 的 22 哦 ~",
-        "来自 Bilibili Live 的 33 的说",
-        "Shizuku Talk ！这里是 Shizuku ~",
-        "我可是个路人喔"
+
+        "Shizuku Talk ！这里是 Shizuku ~"
+        
     ]
 }
